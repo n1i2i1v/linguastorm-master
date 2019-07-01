@@ -1,0 +1,8 @@
+@import '~styles/variables';
+
+.molecule-language-menu_menu-item-container {
+	width: $menu_item_size;
+	.molecule-language-menu_text {
+		margin-right: 5px;
+	}
+}
